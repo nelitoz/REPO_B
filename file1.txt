@@ -2,7 +2,7 @@ this is a new feature but has some bugs in here
 fix them as much as you can.
 
 bug1[1]FIXED
-bug2[]
+bug2[2]FIXED
 bug3[]
 bug4[x]FIXED
 bug5[]
